@@ -1,4 +1,4 @@
-# volunteer_integrationui
+# Volunteer_IntegrationUI
 
 An app only used to practice laying out UI and contains some simple functions.
 ***
