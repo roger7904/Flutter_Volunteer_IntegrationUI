@@ -1,6 +1,14 @@
-# Volunteer_IntegrationUI
+# <div align="center"><img src="docs/logo.png" alt="icon" width=30> Volunteer_IntegrationUI</div>
 
-An app only used to practice laying out UI and contains some simple functions.
+<div align="center">An app only used to practice laying out UI and contains some simple functions.
+
+
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+</div>
+
+
 
 **The complete APP is still in progress. [here](https://github.com/roger7904/Flutter_Volunteer_Integration)**
 ***
