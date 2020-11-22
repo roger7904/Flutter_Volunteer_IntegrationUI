@@ -1,4 +1,4 @@
-# <div align="center"><img src="docs/logo.png" alt="icon" width=30> Volunteer_IntegrationUI</div>
+# <div align="center"> Volunteer_IntegrationUI</div>
 
 <div align="center">An app only used to practice laying out UI and contains some simple functions.
 
