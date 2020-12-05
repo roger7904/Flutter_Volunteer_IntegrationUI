@@ -40,5 +40,5 @@ Integrates the volunteer organization on one platform, making users not only rec
 
 ![android1](docs/android1.gif)&nbsp;
 ![android2](docs/android2.gif)&nbsp;
-![android3](docs/android3.gif)&nbsp
+![android3](docs/android3.gif)&nbsp;
 ![android4](docs/android4.gif)
