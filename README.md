@@ -31,14 +31,14 @@ Integrates the volunteer organization on one platform, making users not only rec
 
 ## iosUI gif
 
-![ios1](docs/ios1.gif)&nbsp;
-![ios2](docs/ios2.gif)&nbsp;
-![ios3](docs/ios3.gif)&nbsp;
+![ios1](docs/ios1.gif)&nbsp;&nbsp;
+![ios2](docs/ios2.gif)&nbsp;&nbsp;
+![ios3](docs/ios3.gif)&nbsp;&nbsp;
 ![ios4](docs/ios4.gif)
 
 ## androidUI gif
 
-![android1](docs/android1.gif)&nbsp;
-![android2](docs/android2.gif)&nbsp;
-![android3](docs/android3.gif)&nbsp;
+![android1](docs/android1.gif)&nbsp;&nbsp;
+![android2](docs/android2.gif)&nbsp;&nbsp;
+![android3](docs/android3.gif)&nbsp;&nbsp;
 ![android4](docs/android4.gif)
