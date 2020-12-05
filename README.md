@@ -10,7 +10,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 <img src="docs/androidhome.gif" width="200" height="412"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="docs/ioshome.gif" width="200" height="412"/>
 
 </div>
@@ -31,8 +31,14 @@ Integrates the volunteer organization on one platform, making users not only rec
 
 ## iosUI gif
 
-![ios1](docs/ios1.gif)![ios2](docs/ios2.gif)![ios3](docs/ios3.gif)![ios4](docs/ios4.gif)
+![ios1](docs/ios1.gif)&nbsp;
+![ios2](docs/ios2.gif)&nbsp;
+![ios3](docs/ios3.gif)&nbsp;
+![ios4](docs/ios4.gif)
 
 ## androidUI gif
 
-![android1](docs/android1.gif)![android2](docs/android2.gif)![android3](docs/android3.gif)![android4](docs/android4.gif)
+![android1](docs/android1.gif)&nbsp;
+![android2](docs/android2.gif)&nbsp;
+![android3](docs/android3.gif)&nbsp;
+![android4](docs/android4.gif)
