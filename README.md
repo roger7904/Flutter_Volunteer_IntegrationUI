@@ -9,8 +9,8 @@
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-![androidhome](docs/androidhome.gif)
-![ioshome](docs/ioshome.gif)
+<img src="docs/androidhome.gif" width="200" height="412"/>
+<img src="docs/ioshome.gif" width="200" height="412"/>
 
 </div>
 
