@@ -9,7 +9,8 @@
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-![home](docs/home.gif)
+![androidhome](docs/androidhome.gif)
+![ioshome](docs/ioshome.gif)
 
 </div>
 
@@ -27,6 +28,10 @@ Furthermore, people are always passive to receive the volunteer events, we might
 
 Integrates the volunteer organization on one platform, making users not only receive the activities in real-time but also get more comprehensive information.
 
-## UI gif
+## iosUI gif
 
-![app1](docs/O.gif)          ![app2](docs/V.gif)          ![app3](docs/H1.gif)          ![app4](docs/H2.gif)
+![ios1](docs/ios1.gif)          ![ios2](docs/ios2.gif)          ![ios3](docs/ios3.gif)          ![ios4](docs/ios4.gif)
+
+## androidUI gif
+
+![android1](docs/android1.gif)          ![android2](docs/android2.gif)          ![android3](docs/android3.gif)          ![android4](docs/android4.gif)
